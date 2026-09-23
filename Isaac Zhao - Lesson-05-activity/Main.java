@@ -61,7 +61,7 @@ class Main {
     Declare and assign values to any new variables
 
 */
-    double eq2 = (2*t*(t+1)*(-1*(t/2)))/2;
+    double eq2 = ((2*t*(t+1)*(-1*(t/2)))/a);
     System.out.println(eq2);
 
 
